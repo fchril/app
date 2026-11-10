@@ -1,2 +1,2 @@
-game_version|5.61
-protocol|227
+game_version|5.62
+protocol|232
